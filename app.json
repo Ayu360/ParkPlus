@@ -16,9 +16,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ayushninja.snack60a7b349805c48eea9243e065bbafa8c"
     },
     "web": {
       "favicon": "./assets/favicon.png"
