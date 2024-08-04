@@ -2,7 +2,7 @@
 # Park+ Mobile application 
 
 This is react native mobile aplication for [https://parkplus.io/](https://parkplus.io/)
-![park1](https://github.com/user-attachments/assets/086d7cf3-3739-4e05-a129-c654fb437694)
+![park1](https://github.com/user-attachments/assets/086d7cf3-3739-4e05-a129-c654fb437694 | width=100 | height = 250)
 
 
 ## 📦 Included packages
