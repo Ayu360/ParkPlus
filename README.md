@@ -1,9 +1,8 @@
 
 # Park+ Mobile application 
 
-This is react native mobile aplication for [https://parkplus.io/](https://parkplus.io/)
-![park1](https://github.com/user-attachments/assets/086d7cf3-3739-4e05-a129-c654fb437694 | width=100 | height = 250)
-
+This is react native mobile aplication for [https://parkplus.io/](https://parkplus.io/) </br>
+<img src="https://github.com/user-attachments/assets/086d7cf3-3739-4e05-a129-c654fb437694" data-canonical-src="https://github.com/user-attachments/assets/086d7cf3-3739-4e05-a129-c654fb437694" width="200" height="400" />
 
 ## 📦 Included packages
 - [Expo](https://docs.expo.dev/) for universal native app
@@ -11,7 +10,6 @@ This is react native mobile aplication for [https://parkplus.io/](https://parkpl
 
 ## 🏁 Start the app
 - Install dependencies: `npm i`
-- 
 - native application: `npx expo start`
 
 ## ⬇️ Download apk
@@ -19,9 +17,9 @@ This is react native mobile aplication for [https://parkplus.io/](https://parkpl
 
 
 ## 📱 Screens
-![park2](https://github.com/user-attachments/assets/50cdaf48-0a8d-410c-b47d-4721d867b951)
+<img src="https://github.com/user-attachments/assets/50cdaf48-0a8d-410c-b47d-4721d867b951" data-canonical-src="https://github.com/user-attachments/assets/50cdaf48-0a8d-410c-b47d-4721d867b951" width="200" height="400" />
 
-![park3](https://github.com/user-attachments/assets/3395f01c-59d5-4782-8240-f11e4ee944a3)
+<img src="https://github.com/user-attachments/assets/3395f01c-59d5-4782-8240-f11e4ee944a3" data-canonical-src="https://github.com/user-attachments/assets/3395f01c-59d5-4782-8240-f11e4ee944a3" width="200" height="400" />
 
 
 ### NOTE: 
